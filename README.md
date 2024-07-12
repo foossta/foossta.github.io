@@ -1,3 +1,3 @@
 # Peasonal Website
-## Limk
+## Link
 https://foossta.github.io
